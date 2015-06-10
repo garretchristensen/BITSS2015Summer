@@ -42,7 +42,7 @@ WASHB<-read.dta("C:/Users/garret/Documents/Research/BITSS/WorkshopSlides/Riversi
 But let's bring in Clara's states data files and merge them together.
 
 ```{r}
-setwd("C:/Users/garret/Documents/Research/BITSS/WorkshopSlides/BITSS2015Summer")
+setwd("C:/Users/garret/Documents/Research/BITSS/WorkshopSlides/BITSS2015Summer/RDay1")
 ratings<-read.csv("ratings.csv")
 ```
 
