@@ -1,0 +1,17 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {english}
+\beamer@sectionintoc {1}{BITSS Activities}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Manual of Best Practices}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Meta-Research Grant Initiative}{15}{0}{1}
+\beamer@subsectionintoc {1}{3}{Leamer-Rosenthal Prizes}{16}{0}{1}
+\beamer@subsectionintoc {1}{4}{Developing Country Researcher Transparency}{17}{0}{1}
+\beamer@subsectionintoc {1}{5}{Help Desk}{18}{0}{1}
+\beamer@subsectionintoc {1}{6}{BITSS Research}{19}{0}{1}
+\beamer@subsectionintoc {1}{7}{BITSS Education}{20}{0}{1}
+\beamer@sectionintoc {2}{Partner Activities}{21}{0}{2}
+\beamer@subsectionintoc {2}{1}{Center for Open Science}{21}{0}{2}
+\beamer@subsectionintoc {2}{2}{Other Orgs}{21}{0}{2}
+\beamer@subsectionintoc {2}{3}{Badges}{22}{0}{2}
+\beamer@subsectionintoc {2}{4}{Design-Based Publication}{23}{0}{2}
+\beamer@subsectionintoc {2}{5}{Transparency \& Openness Promotion Guidelines}{24}{0}{2}
+\beamer@sectionintoc {3}{You}{25}{0}{3}
